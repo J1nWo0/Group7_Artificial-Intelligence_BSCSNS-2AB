@@ -7,7 +7,7 @@ Works distributions:
 
 ~ (Bernales) [1] Scope and Limitations, [2] Technology Literature Review (Agriculture), [3] Survey, [4] Technology Evaluation, [5] Summary + Compilation & Organization of Documents (docx file)
 
-~ (Florendo) [1] Uses & Functions (Business & Education), [2] Importance & Benefits (Business & Education), [3] Technology Literature Reviews (Types of AI Approaches), [4] Technology Literature Reviews (Business) + Powerpoint Presentation (Design and Organization)
+~ (Florendo) [1] Uses & Functions (Business & Education), [2] Importance & Benefits (Business & Education), [3] Technology Observation (Types of AI Approaches), [4] Technology Literature Reviews (Business) + Powerpoint Presentation (Design and Organization)
 
 ~ (Laguidao) [1] Objectives, [2] Technology Literature Review (Healthcare), [3] Conclusions, [4] Recommendations
 
